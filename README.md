@@ -2,14 +2,14 @@
 
 Haskell tic tac toe is a game that uses the command line as an interface to play the game. It is a manual 2 player game, so grab your favorite coworker and challenge them in a timeless game of tic tac toe. 
 
-
+***Please note that instructions are assuming you already have Haskell installed in your local device. If that is not the case, please install Hakell before beginning the game.***
 
 ### Instructions:
 1. Clone this repo to your local computer.
-2. cd tic_tac_toe.hs
-3. run ghci
-4. run :l tic_tac_toe
-5. run main
+2. cd tic_tac_toe
+3. Run ghci
+4. Run :l tic_tac_toe
+5. Run main
 6. Decide who is going first. Note, the first player going will automatically be assigned **O** as a character.
 7. Last and most important step, HAVE FUN! You a are all setup to play!
 
@@ -25,8 +25,6 @@ Learning a new language is fun, however; it can become overwhelming quickly. Thi
 - Functions
 - Loops
 - Conditionals
-
-### What did you do with the information learned?
 
 My first approach was to begin reading the Haskell documentation, however; it was difficult to follow because it seems to be targeted towards more experienced Haskell developers. After some research, I was able to find a couple of credible resources that were targeted towards Jr Haskell developers. My first option was to watch a 101 Haskell crash course [Haskell-101](https://www.youtube.com/watch?v=02_H3LjqMr8) and supplement my learning with this free e-book [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters). These two resources were key to understanding the basics of Haskell, because the tutorial used the book as reference. Once I felt comfortable with some of the core concepts I decided to take it to the next level and build a simple input and output application. This application takes your name and the year you were born as inputs. Using those two inputs will give you a greeting and calculate your age. The application uses most of the core principles mentioned above.
  
@@ -76,10 +74,10 @@ Greetings is an app that uses the command line as an interface. It asks you for 
 
 ### Instructions:
 1. Clone this repo to your local computer.
-2. cd greetings.hs
-3. run ghci
-4. run :l greetings
-5. run main
+2. cd tic_tac_toe
+3. Run ghci
+4. Run :l greetings
+5. Run main
 6. Type your name
 7. Type the year you were born
 8. Receive a very special message!!
